@@ -1,7 +1,7 @@
 /*
 * ----------------------------------------------------------------------------------------
 Author       : Hridoy
-Template Name: Bentos - Personal Portfolio HTML Template
+Template Name: Ridwan Resume
 Version      : 1.0                                          
 * ----------------------------------------------------------------------------------------
 */
